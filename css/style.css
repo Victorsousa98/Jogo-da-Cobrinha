@@ -1,5 +1,14 @@
-snake{
-    background-color: lightgreen;
-    height: 512px;
-    width: 512px;
+h1{
+    text-transform: uppercase;
+    color: green;
+}
+
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
 }
